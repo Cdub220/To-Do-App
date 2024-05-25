@@ -1,5 +1,6 @@
 FILEPATH = "todos.txt"
 
+
 def get_todos(filepath=FILEPATH):
     """
     Reads a text file and returns the list
