@@ -2,3 +2,5 @@ drink
 go to the store
 eat out
 running
+Finsh app
+
