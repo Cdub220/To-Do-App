@@ -1,4 +1,2 @@
-Finsh app
-run to the store
-eat and drink
-think
+Finsh app and codeeat and drink
+sleep and eat
